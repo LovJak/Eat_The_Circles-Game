@@ -1,4 +1,5 @@
 #Go to the video and find the things that you need to add!!
+#if you don't see the code in normal then To see the code in normal then go click the button raw or blame
 
 
 import pgzrun

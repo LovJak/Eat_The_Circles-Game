@@ -54,12 +54,12 @@ def draw():
     snake.draw()
     apple.draw()
     drawApples()
-    drawHealth()
+
 def update():
     screen.clear()
     #global variables
     global health
-    global circles
+    global 
     #movement
     if keyboard.left:
         snake.x-=8
